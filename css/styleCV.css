@@ -17,7 +17,7 @@ header {
 body {
   font-family: "Open Sans", sans-serif;
   color: #808080;
-	background:url(img/background/fnd.jpg) center top #FFFFFF fixed; }
+	background:url(../img/background/fnd.jpg) center top #FFFFFF fixed; }
 
 body, html {
   overflow-x: hidden; }
@@ -185,7 +185,7 @@ article {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60px 212px;
-  background-image: url(img/other/02_Year_shape.png); }
+  background-image: url(../img/other/02_Year_shape.png); }
   .lt-time p {
     padding: 10px 30px;
     text-align: center;
@@ -199,7 +199,7 @@ article {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 265px 180px;
-  background-image: url(img/other/01_Building_shape.png); }
+  background-image: url(../img/other/01_Building_shape.png); }
 
 @media all and (min-width: 768px) and (max-width: 991px) {
   .lt-exp-wrapper {
@@ -231,17 +231,17 @@ article {
     text-align: center; }
 
 #skill {
-  background-image: url("img/background/tablet/03_Background_image_3.jpg"); background-position:bottom }
+  background-image: url("../img/background/tablet/03_Background_image_3.jpg"); background-position:bottom }
 
 #contact {
-  background-image: url("img/background/tablet/04_Background_image_4.jpg");
+  background-image: url("../img/background/tablet/04_Background_image_4.jpg");
   background-size: cover; }
 #contact h2 {
 	color:#FFFFFF;
 	padding-top:0px; }
 
 .back1 {
-  background-image: url("img/background/tablet/02_Background_image_2.jpg"); }
+  background-image: url("../img/background/tablet/02_Background_image_2.jpg"); }
 
 .widget {
   margin-bottom: 30px; }
@@ -276,7 +276,7 @@ article {
   #menu nav {
     border: medium none;
     background: transparent;
-		background:url(img/background/fnd.jpg) center top #FFFFFF fixed;
+		background:url(../img/background/fnd.jpg) center top #FFFFFF fixed;
     margin-bottom: 0px; }
   #menu nav.navbar {
     padding: 16px 0px;
@@ -284,7 +284,7 @@ article {
     #menu nav.navbar.navbar-fixed-top {
       border: medium none;
 			background: transparent;
-			background:url(img/background/fnd.jpg) center top #FFFFFF fixed;
+			background:url(../img/background/fnd.jpg) center top #FFFFFF fixed;
 			margin-bottom: 0px; }
 		#menu nav.navbar.navbar-fixed-top .navbar-toggle {
 			background:#FFFFFF; }
@@ -403,7 +403,7 @@ ul {
 
 @media all and (max-width: 767px) {
 	#skill {
-  background-image: url("img/background/mobile/03_Background_image_3.jpg"); background-position:bottom }
+  background-image: url("../img/background/mobile/03_Background_image_3.jpg"); background-position:bottom }
 	#contact {
   /*background-size:auto;*/ }
 	.flexslider .slides img, .quien img {
@@ -617,7 +617,7 @@ footer {
     padding: 90px 0px; }
 
 #para_ex {
-  background-image: url("img/background/tablet/02_Background_image_2.jpg"); }
+  background-image: url("../img/background/tablet/02_Background_image_2.jpg"); }
 
 div.light_rounded .pp_description, div.light_square .pp_description {
   margin-right: 0px; }
