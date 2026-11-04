@@ -17,7 +17,7 @@ header {
 body {
   font-family: "Open Sans", sans-serif;
   color: #808080;
-	background:url(../img/background/fnd.jpg) center top #FFFFFF fixed; }
+	background:url(https://raw.githubusercontent.com/miguelangelvalverdeguerrero-ops/my-book/refs/heads/main/img/background/fnd.jpg) center top #FFFFFF fixed; }
 
 body, html {
   overflow-x: hidden; }
